@@ -4,6 +4,7 @@ RENCANA CONTENT ZHACKBAE
   *ES6
   *FrameworkJS
    ^viu
+   ^React
 -Struktur data
 -typescript
 -php
