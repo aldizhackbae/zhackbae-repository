@@ -3,8 +3,11 @@ RENCANA CONTENT ZHACKBAE
 -javascript
   *ES6
   *FrameworkJS
-    ^Angular
-    ^React
+   ^viu
+   ^React
+-Struktur data
 -typescript
 -php
+  ^laravel
 -golang
+-python
