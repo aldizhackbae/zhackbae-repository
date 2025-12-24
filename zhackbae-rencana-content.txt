@@ -3,6 +3,7 @@ RENCANA CONTENT ZHACKBAE
 -javascript
   *ES6
   *FrameworkJS
+-Struktur data
 -typescript
 -php
 -golang
