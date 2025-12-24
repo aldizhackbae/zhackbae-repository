@@ -1,7 +1,8 @@
 RENCANA CONTENT ZHACKBAE
 
 -javascript
--react
+  *ES6
+  *FrameworkJS
 -typescript
 -php
 -golang
